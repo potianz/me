@@ -1,0 +1,9 @@
+server:
+  port: 8082
+spring:
+  mvc:
+    view:
+      #文件的位置
+     prefix: /templates/
+    #文件的后缀
+     suffix: .ftlh
